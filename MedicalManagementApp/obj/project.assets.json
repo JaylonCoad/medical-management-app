@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "MedicalManagement.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/MedicalManagement.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MedicalManagement.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MedicalManagement.Models/1.0.0": {
+      "type": "project",
+      "path": "../MedicalManagement.Models/MedicalManagement.Models.csproj",
+      "msbuildProject": "../MedicalManagement.Models/MedicalManagement.Models.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "MedicalManagement.Models >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/jayloncoad/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagementApp/MedicalManagementApp.csproj",
+      "projectName": "MedicalManagementApp",
+      "projectPath": "/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagementApp/MedicalManagementApp.csproj",
+      "packagesPath": "/Users/jayloncoad/.nuget/packages/",
+      "outputPath": "/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagementApp/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/jayloncoad/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/MedicalManagement.Models.csproj": {
+              "projectPath": "/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/MedicalManagement.Models.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.302/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

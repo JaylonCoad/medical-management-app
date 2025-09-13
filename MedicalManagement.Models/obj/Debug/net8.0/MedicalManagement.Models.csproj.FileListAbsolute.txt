@@ -1,0 +1,12 @@
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/bin/Debug/net8.0/MedicalManagement.Models.deps.json
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/bin/Debug/net8.0/MedicalManagement.Models.dll
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/bin/Debug/net8.0/MedicalManagement.Models.pdb
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/MedicalManagement.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/MedicalManagement.Models.AssemblyInfoInputs.cache
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/MedicalManagement.Models.AssemblyInfo.cs
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/MedicalManagement.Models.csproj.CoreCompileInputs.cache
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/MedicalManagement.Models.dll
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/refint/MedicalManagement.Models.dll
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/MedicalManagement.Models.pdb
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/ref/MedicalManagement.Models.dll
+/Users/jayloncoad/Desktop/COP4870/Assignment 1 - Basic Console Application/MedicalManagement.Models/obj/Debug/net8.0/MedicalManagement.Models.sourcelink.json
